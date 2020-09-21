@@ -1,4 +1,4 @@
-# vue-crash-course
+# todo-app-vue
 
 ## Project setup
 ```
